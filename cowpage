@@ -14,7 +14,7 @@
 		<h1 style="text-align: center;">Animals</h1>
 		<h2 style="text-align: center;">The Cow</h2>
 	</header>
-	<div style="width: 1000px; margin: 0 0 0 100px;">
+	<div style="width: 1000px; margin: 0 100px;">
 		<p>
 			<a href="https://www.google.com/search?q=cow" target="_blank"><em>Vitula eligans</em></a> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim <em>vitula eligans</em>,
@@ -48,7 +48,7 @@
       </blockquote>
 
       <p>
-        If you have <em>never</em> heard a cow say anything like the above you should probably listen more carefully.
+        If you have <em>never</em> heard a cow say anything like the above, you should probably listen more carefully.
         <br>
         According to Google translate, <em>vitula eligans</em> is how you say cow in Latin.
       </p>
@@ -64,10 +64,10 @@
  	<h4>Fun facts about Cows</h4>
       <ul>
         <li>
-        	Cows are social animals and will make firends with some herd members while avoiding others
+        	Cows are social animals and will make friends with some herd members while avoiding others.
         </li>
         <li>
-        	Cows spend about 8 hours eating, 8 hours chewing her cud, and 8 hours sleeping.
+        	A cow spends about 8 hours eating, 8 hours chewing her cud, and 8 hours sleeping.
         </li>
         <li>
         	A dairy cow can produce 125 lbs. of saliva a day.
